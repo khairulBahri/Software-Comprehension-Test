@@ -1,0 +1,7 @@
+C:\Users\khairul.bahri\source\repos\GrabTheFrame\bin\Debug\GrabTheFrame.exe.config
+C:\Users\khairul.bahri\source\repos\GrabTheFrame\bin\Debug\GrabTheFrame.exe
+C:\Users\khairul.bahri\source\repos\GrabTheFrame\bin\Debug\GrabTheFrame.pdb
+C:\Users\khairul.bahri\source\repos\GrabTheFrame\obj\Debug\GrabTheFrame.csproj.AssemblyReference.cache
+C:\Users\khairul.bahri\source\repos\GrabTheFrame\obj\Debug\GrabTheFrame.csproj.CoreCompileInputs.cache
+C:\Users\khairul.bahri\source\repos\GrabTheFrame\obj\Debug\GrabTheFrame.exe
+C:\Users\khairul.bahri\source\repos\GrabTheFrame\obj\Debug\GrabTheFrame.pdb
